@@ -1,4 +1,4 @@
-[![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://nerdtechlk.com/?i=1)
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <div align="center">
    <br/>
@@ -21,7 +21,7 @@
     <div>
         <td>
             <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IAkshan2005&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10">
-            <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=350px>
+            <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width=350px>
         </td>
     </div>
     <br />
